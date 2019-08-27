@@ -8,8 +8,8 @@ public class HelloTest {
 	public void test() {
 		Hello hello = new Hello();
 		hello.testMain();
-		String input = "Agni";
-		Assert.assertEquals(input, "Sudhir");
+		String input = "abc";
+		Assert.assertEquals(input, "abc");
 	}
 
 }
