@@ -8,7 +8,7 @@ public class HelloTest {
 	public void test() {
 		Hello hello = new Hello();
 		hello.testMain();
-		String input = "Sudhir";
+		String input = "Deepti";
 		Assert.assertEquals(input, "Sudhir");
 	}
 
